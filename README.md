@@ -1,1 +1,1 @@
-https://gokulpvtr.github.io/Eagle-Android-wepage/
+https://gokulpvtr.github.io/Simple_website_responsive/
